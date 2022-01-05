@@ -1,0 +1,6 @@
+root
+admin
+guest
+mysql
+test
+user
